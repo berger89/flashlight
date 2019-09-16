@@ -1,5 +1,5 @@
+import 'package:flashlight/flashlight.dart';
 import 'package:flutter/material.dart';
-import 'package:torch/torch.dart';
 
 void main() => runApp(MyApp());
 
@@ -43,7 +43,7 @@ class LampPageState extends State<LampPage> with WidgetsBindingObserver {
               setState(() {
                 bulb = !bulb;
               });
-              bulb == true ? Torch.turnOn() : Torch.turnOff();
+              bulb == true ? Flashlight.lightOn() : Flashlight.lightOff();
             },
             child: Image.asset(
               bulb == true ? 'assets/bulb_on.png' : 'assets/bulb_off.png',
@@ -76,10 +76,10 @@ class LampPageState extends State<LampPage> with WidgetsBindingObserver {
 
   @override
   void didChangeAppLifecycleState(AppLifecycleState state) {
-    // Torch.turnOff();
-//    setState(() {
-//      bulb = false;
-//    });
+    Flashlight.lightOff();
+    setState(() {
+      bulb = false;
+    });
     super.didChangeAppLifecycleState(state);
   }
 }
