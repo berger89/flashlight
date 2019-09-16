@@ -8,7 +8,7 @@ https://ibb.co/4NYnqBm
 https://ibb.co/BzH7T57
 https://ibb.co/qNvDGHt
 
-| ![enter image description here](https://ibb.co/4NYnqBm=w450) | ![enter image description here](https://lh6.googleusercontent.com/qekoiytrqRwiFX0ifpxVkBOLVDHB1DrCcV0gBXTA26eKL3WAIsmHecU-_uEgpFFjmEKgvTiAxiPXNKgQHOd1=w1960-h2538-rw=w450) | ![enter image description here](https://ibb.co/4NYnqBm=w450) |
+| ![enter image description here](https://i.ibb.co/8rHm3yW/device-2019-09-12-191327.png=w450) | ![enter image description here](https://i.ibb.co/8rHm3yW/device-2019-09-12-191327.png=w450) | ![enter image description here](https://ibb.co/4NYnqBm=w450) |
 |--|--|--|
 
 # Google Play Store
